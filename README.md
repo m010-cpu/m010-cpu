@@ -1,4 +1,4 @@
-<div>
+<div align="center" style="display: flex;justify-content: center;align-items: center;">
   <a href="https://github.com/m010-cpu">
     <img src="https://github-readme-stats.vercel.app/api?username=m010-cpu&theme=solarized-dark">
   </a>

@@ -1,6 +1,10 @@
 <div align="center" style="display: flex;justify-content: center;align-items: center;">
-  [![m010-cpu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m010-cpu&theme=solarized-dark)](https://github.com/m010-cpu)
-  [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m010-cpu&theme=solarized-dark)](https://github.com/m010-cpu)
+  <a href="https://github.com/m010-cpu">
+    <img src="https://github-readme-stats.vercel.app/api?username=m010-cpu&theme=solarized-dark">
+  </a>
+  <a href="https://github.com/m010-cpu">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m010-cpu&theme=solarized-dark">
+  </a>
 </div>
 <!--
 **m010-cpu/m010-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

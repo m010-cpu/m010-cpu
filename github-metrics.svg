@@ -1275,43 +1275,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                7
-                                <div class="bottom">Apr.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                8
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                9
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                10
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                11
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                12
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                13
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 14
+                                <div class="bottom">Apr.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -1342,6 +1307,41 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 20
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                21
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                22
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                23
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                24
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                25
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                26
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                27
                             </div>
                         </div>
                     </section>
@@ -1351,43 +1351,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                7
-                                <div class="bottom">Apr.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                8
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                9
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                10
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                11
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                12
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                13
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 14
+                                <div class="bottom">Apr.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -1418,6 +1383,41 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 20
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                21
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                22
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                23
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                24
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                25
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                26
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                27
                             </div>
                         </div>
                     </section>
@@ -1452,7 +1452,7 @@
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABggEBQcD/8QALBAAAQQBAwIEBQUAAAAAAAAAAQIDBAURAAYhEjEHE0FxCDJCYdFRYpGTov/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAD/xAAeEQACAwADAAMAAAAAAAAAAAABAgADBBESITFBUf/aAAwDAQACEQMRAD8AYsQUg9uNAviH4hVGz0MMMvNO2Lqjhrp6+AMnJB4P50ct3tRJdWwzZRHHPMLRSl4EhQ4I99LLuLblVN3G45uAT1FL0jADbhbUEuL5UQP0Rn+NBq1mtYzJkFrcCMdt6Yxe0sWbGdR0PNBRbSc9JPcHUo14z9Gsa8J7zbO1mLacZDzaJbgDEXCshCEclCT2B++OQdXc3xmW1IUINMt2OSelTi+lRwSOR6HjQruXoC59ircoFhQfUtoFhUVe312W5mqqtQXS4fMCMA+nJ7k6Ct7XBclPzaZ5ZrJQStl6M35jZBAByPvyQce+NKlum/s76yXJtZbshZWoJSpR6Wxnskeg1ChW1hDZWzEnSmGVfMhp5SUq9wDra6hcoVfOI/FaaW7fsejZzFHO2xGWtVbcO8+bJbKHuSc4K+ewONdn4NGl0gVsP+ofjS2fDdZSo1zcx2XSlpcVLik/uSrAP+jrYJVjKLuS6rtq+pKwgHEgstY2Fj8mf//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABwgBBQYE/8QALhAAAQMCBQIEBQUAAAAAAAAAAQIDBAURAAYTITEHEhQiQVEXMjNSgWFicbGy/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/8QAGhEAAwEAAwAAAAAAAAAAAAAAAAECEQMxQf/aAAwDAQACEQMRAD8AYzNlfj5dpRlyUrcJVpttJVYuKsTa542STf8ATC6VjrvXJL7rMdxunP3Ib8OwJDLe+wcURdX8o2wSuszS6pWKPSUk6b3lUPfvcbT/AF3j84qPhGA8I3hzofW17jY6l+y2JT0jttF3096jzagmDHzEYLy5NkpmQrhvv9AQffi/vtbBZwuOZMvqypLkR2fKNFMxr9jlzx+UA4YClSPEU2M997YOJinrTDjbrZfhkOo+WZtWVDqNIdSidD4BNr7ggg2IuCkci3OMI11ezIypTMiiRHVNkoL6FdlyNr6fcf8AYwePTFRPoNJmO6sqnRXnPuW0CcNS91GtNdAUp6ax1EqsjWSts6aW3XXEhKW2zfZsAm5+fk+u5OD1EaRFitMJ4QkAYiFEjxGA1GZQ02OEoFhjoGNMejxziP/Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwQFBgcB/8QALRAAAQMCBQIFAwUAAAAAAAAAAQIDBAARBQYSEyExcQcUQVGRMnKhI2GBseH/xAAYAQACAwAAAAAAAAAAAAAAAAADBQECBP/EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMREgRBFCEj/9oADAMBAAIRAxEAPwDZEQiebG3713G8fwzLWFeaxiU3Gj3sCeSs+wHUntUgh1q3L7du9ZH4oDK+ZMyNxJcjdXBjrDit0hCCT0BBtrHr19vSr3X4GTIpp2bAlyh+JuVpeFrmxJxkWOjYS2Q6T9ht89KqeIeLbglLDGERktjgB5a1K/nTYDtz3rD8VEDA8zyF4OXZMDToKWVEWPqAfX/adjZpkvtlxOFHSSdOpRvb4pbfZyWPyHqH1RDgxvIGZlzZc1MjzLq9oLBVyBa/93/FBzCp4tuy1pQgFwr0kWIPanIiRhsEph/plz6lDqahcxvLVDWCeEqFvzQfJZ7RX0IQVBULdytvvbhO8Qv3vzxQWsXmxUBpjbU0n6NY5A9qUnqOx9xF/mhKJB4poJln/9k=" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwf/xAAvEAABAwIEAwQLAAAAAAAAAAABAgMEABEFEiExBhNRFCJBgSMkMjNCUmFicaHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEBf/EAB0RAAICAgMBAAAAAAAAAAAAAAECAAMRIQQSIkH/2gAMAwEAAhEDEQA/AOVTpUac220Elbl9NOvhVjhXCDyYAUucWF290kXA/tS+C4Q27iUd6U+sr5gWctkDerlxiPFJjj0oeIzOFxAKBfp41nWOwOJfxqlcEmC4UqXBlZC8tp9k6ONGxI6jpWkhqOp0kAa/MrWleNOJw6exHjvlUiSMgUbHXfYedCqwuY4czkqSVfaDaqEYY3J3Qq5Ail5p4IHrjTRJsltKbkr8BejkcVx246GZyF9rQDfvEA/kVzd6VJS/zEyHQtHfBzX1863Z4imyee9ISy66EZsykk63Gu9A9edxtFnxdQvF+IZzGNJeVcN5kuEZfhvt9KoJXFRjy5DM6QErQ4chCfbbOqTv0IHlULMxaVPk8uQUFBsiwQBpTXEIbUpmA48FKWIyUXvuEkgfoU4KOozEFvRn/9k=" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAYHAwUI/8QAKxAAAQMDAwIEBwEAAAAAAAAAAwECBAAFEQYTITFBEmFxgQcUFRYjUaEi/8QAFQEBAQAAAAAAAAAAAAAAAAAABAP/xAAcEQACAwADAQAAAAAAAAAAAAABAgADEQQSIUH/2gAMAwEAAhEDEQA/ADb9by2wEiEdr2by4XjHfK0nfTrzPGixIZCxmKuNw6M8fmif3mrRqe52y7IsiUofA9EVHbnVMdqR7Qa5iLJCgorGINXgTPX9Zo97kYBFcWoWaT8iAW3FaVhEaVnL3uARuHj8HnjnPlR8HVpRRmsk7ikTzXpVAY4RHQx3Vm1PKN6/jdw1E6r/AGtPP+3JEsj4siRIFnCEaZjEX2qybnsg46uRJtDul+1NPjihQ3nK1Nv8Q8JheFVeyetMttvwRS0FeJgxTIqqNeMo9E7jXHOcVbp0OJaNPy41rihihG1cNE3GfX91OpkKNHE+SMA95OjlalAtuDMPI/jqawSDFnVlsu9wELUD3E+TGAolC1FQgsjVWKvrn2XikAuqpjQRQpGA3YEgsbadlWurdLjbFaMQ0/w0Suw7nK8dazTvh7pS5yHSpljiPO/lzmorEX2aqJSkt6jIOxOx2f/Z" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -1469,9 +1469,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.2803180914512923 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.27960339943342777 329"/>
                                     <text x="60" y="50" dominant-baseline="central">3</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3521</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3530</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -1489,7 +1489,7 @@
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                     <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0 329"/>
                                     <text x="60" y="50" dominant-baseline="central">0</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1826</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1832</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
@@ -1498,7 +1498,7 @@
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                     <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0 329"/>
                                     <text x="60" y="50" dominant-baseline="central">0</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/822</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/825</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -1526,7 +1526,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Apr 2025, 02:50:27 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Apr 2025, 02:50:13 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

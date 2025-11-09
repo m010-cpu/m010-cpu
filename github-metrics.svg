@@ -115,7 +115,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 8 user
+                            Following 10 user
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1303,43 +1303,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                20
-                                <div class="bottom">Oct.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                21
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                22
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                23
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                24
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                25
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                26
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 27
+                                <div class="bottom">Oct.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -1371,6 +1336,41 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 2
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                3
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                4
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                5
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                6
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                7
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                8
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                9
                             </div>
                         </div>
                     </section>
@@ -1380,43 +1380,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                20
-                                <div class="bottom">Oct.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                21
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                22
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                23
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                24
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                25
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                26
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 27
+                                <div class="bottom">Oct.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -1448,6 +1413,41 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 2
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                3
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                4
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                5
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                6
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                7
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                8
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                9
                             </div>
                         </div>
                     </section>
@@ -1471,10 +1471,12 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    8 followed
+                    10 followed
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUDBgcI/8QAKRAAAgECBQQCAQUAAAAAAAAAAQMCBBEABQYSIRMxQXEHUWEUIiQz8P/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAdEQADAQABBQAAAAAAAAAAAAAAAQIRAxITISIx/9oADAMBAAIRAxEAPwDmitROhq2Imd5WbXHY+sEUok6E9kCTEXIA7YuFbp2pGb1EsxWVEStaSjCxv9HGifENLTJ1BUhZpRU06StZb532HgHkAkYh3TQ+HJdMxtOUvqh/HXNsx3EY9vZPGG6Pj/PnLE4oTEHxJvONf1DltDkOpKJhFFMNPTdFIkRvAA/fcDkgi/r84sbNNZctkjFdBCDDvhAsiNsT2FpG49YDtizHUtS0p2uqBmZZpdjbNguECxP9ZA7Cx5P+5w40XXDTKWvTTqm+SjDrpVsmvjmw9ecKK5H6NkIwa2cZckMluucOMpiFTG0X3Dab/WKXCmtDFNzhDWaoXmJfGupBBrFFXViuC2Mv9ztc/fvAWnF1dXRNZUupNwaRHqbZytYHk3v5PfnCfXzZUzHqSdsYw3g+QcCQzCtRluWTpayopo1FNF81qYRASkTew8D8Yk/byx55HHw//9k=" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEU0lEQVR4nI2U728adRzH+QNYE9PHPtAnLj7ZqltjfODMppudxmY1ZjOpMZnVZanVpK6Nxrm1Vru2cYHJ+gs4aIFSuOPHHXDHUeA4oAeF41ehHHa1P7QpW+D6aE9Nao4vItRry+WVyzd3933f+/P5fj4fyR4uPZ5dl3TFdJ5x/ZCgpzazcG5Fu4L3J+FXwdvn9KmDWMtBrIW1vLGVlpU2pksb05I9QnoURUK67b+8ngvu7++XSuXfC1yxuMdXrnK5nKHHNu1HiB7EW45iPdRbKpWKxT2WJiIObYFGWLee9dlTQXxlyZIgDRHzZ8KXIk5x8ahZ25VyuczzfMRj4WhEFAad4b3SZp0+D7XubBd4ns+m2KMUAX+5XxER3XVKAWljq2b8bWjswlDvS1NjH4PcpRnf8aJPHK+JiG47pICEoVU5dlE5dnGo77ReeReIpsIejkZirrlV32JNiCV0YJEPwJuuNrHwYy3/ZzMhB6Jxn52jkZBNFbKpOBqJOjT5AJzxGjNLxnwATnkM2+QFEdFipXQOUci4gWjMa+VoZNW7SMHTWtn9ZVQNbK56jbj+kWlqtGA/05TTv6On8mvZne0tnue9tnlkXiFPbj1K74xSOVniD9nsJLmgUFhswzafPJSiiBsioluo9BCs/oVln4u2quPxGKyWeVDd7Hppmns2QW9MrT21EmghiDwOJSeoJ78ld2mqpymnT/2n3Zb5CKZhmUDcbfA7DUo6oqTCcic5FwhbjEqORmbNizMut54Op4m3mnKaRDscJijq0HpgVSEonHJmyRiyqdYomCV0yyhUoBFyQZHzm9JLCxu4mOgzUnqIAt2HmyE/PF1fjzm/OWhVxlzzSdLAYBCDaWKuOaFO8ctNhR+Cb+UDMNCKOrVgEbQqa08w7UOwDtvVnOt6UyXFWEdqBle9Qs3nKPOKa44ldAwGhe3qZRQK2VRZ3yKDQavOmyc73XO/mA/ADArVxx51aGveG59rcvgXJ4sWnO+Br49v+RpZVxOicfTHSrKEphQlRRoYFMr6TdX81IefkUWpnwTRgOFKDafyUs5vrpx1dc+JkPoBsHfywYffKK5fGn23T9stCdddJCaSuKNIkgaORnwOU227QjfzuqLzZeyDBtGAXSi9GnFCV285js8LNVSZeLRlNu1Z4GjEugDVK1AUdfvxoKTry3uffv1zd9/Ine+GhBzVzU1RIpgm4tCATuNoZPyXkTtD8sFhWf992c3+B9d67r3zyYDkbMft9q7BNz/q95iFwwFzs3km5Q/PXxs4e7W37Wpv2/tfnancJe1dgx3dA8TiLOgWUO0A0IiA9JIRTNKkW/9vOwmTwW9Rn+v8tr1rsB7Jne+Hk6SQHbCzrtlNEayhWkGnZn3VLNca90ZPg6IgmtYYEs7qz08k6qiOgobzxHW/jk90dPWe6+yvih7YYn+qsJix4dyPayGfKWxXh2xVm//lyjqXlJmguzO3Ph/+B4rsLWQ9NDcGAAAAAElFTkSuQmCC" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB/UlEQVR4nGP4rylEdcQwGA09rsiPiRgoNJQVG2AgqC1dmNOGlx0XYgtIZQ/NRkMMaEbcUOafK82DjNRVNNi0THAh9vxejpLJaIgBzdC50jxofmEPzcbUhh8xIJtow8vOqm7IntuNgoomkGnoHRWBNGEuaRM79uAMuBx7fAW6f4MySDD0uCI/mk/Z4yt4XUN1UYGwnRc0NrLbyTGUTctEV1f3548fyCgsLIyYgGb4rynUIc5tICEOt589r4dVXCYtJ+/A/v1ohp4+fXrrli1bt2xR0jdiM3PGZ2iaMBeruAzU17FlbHb+gYGBGzZsgBi0/vzN/Tfuo5leWFBg5ObD5hTMXtBP2FA2p2BWVtbXr17B9dtOXJm6fBeaoT9//Ojp6WFlZWVLb2Yv7CfZ0J8w9Kla+evJFQjup0/37t4FmesUTL6hnyvkvp1YhmLNx489PT2gcEANXwa0iGLzimUVk169atWtW7cgOs8/fHbjGciOz9NDvl3GEg6FhYVK+kbI6YwBM0mx53azsrL29PTgD1NktHXLFuR0xkDQULhL8aBnT58ipzMGzGzKnt/LpmUSEBM/b+5cTP23bt7swQGkpaVZJeXZnIJxFiis6oZaWlqvX71CQ6tXrcJaMOMrpOdiFH1owIaXneQ66gZGIY2GNsvxDs3a9P+ooZroYQoAuK7dUpzl8jkAAAAASUVORK5CYII=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYEBf/EACoQAAIBAwIFAwQDAAAAAAAAAAEDAgQFEQAhBhITFDFBYbEHIlFxgaHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQC/8QAHBEAAgMAAwEAAAAAAAAAAAAAAQIAAxESITEi/9oADAMBAAIRAxEAPwAQUyUZAn9jVhwfwXd+KSDSoUFT3Bc7kJ+fjU8my3BrUKKzEs2WT4OlP6eJ6fVV3twhWUlQkxUmQ5On4mDn3IP8ama0AaItNIduxCu+UNRaLjU0NRAwaqRWyJ3wR+D6659TTyUzlVJbYYyJ4O+lr6/9gy9UklZFaxXVYMY+3cAk+p2+dGrKFtQFshAyiYAA40iOGGzFtfBslTbLvxCXLMTRz7R/XUCsefH4/rWm3Xi6WW6NrpsSouyWRiQZyyfTbbz7a6lMmEYYiMRzzcuds6grq5k7hcueRlyunAZ9ADtqdVU/OdRWcodjDdbzZOJKG3sr6VS6tCwoNGJzBO/6xtnB1kdYuLZSBs9xtvZYzAdAQ5c74xiXzoto3sWy3ricRlLmPudtPNjdMW5fj/DSBQnkI3s3s//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcDBAgF/8QAKxAAAQIFAwMEAQUAAAAAAAAAAQIDBAUGETEAEiEHE2EUIkFRIyQycZLR/8QAFwEBAQEBAAAAAAAAAAAAAAAABAMBBf/EACMRAAEDAwIHAAAAAAAAAAAAAAEAAgMEERIFMSFBUWFxweH/2gAMAwEAAhEDEQA/AGv0p6nIrMTtMyhUy5cE/wDjKj7VMqNkXJ43jB/kaH+pNcVHTlQzyAYSW2IlDXoIgjhlO0b1JFrKJJXnBAzq/VUhp+k6HXNJQ4+sFIEL23UlL63MLUbcixufCbDymp9Uc2nEHDQsdFFyFhbdiGbFm2rApFhk8E8kk+dGqJsXEAW6fV2tJoDUOyLbtG9/XdMemoL0lQ0/PZvVzr0xXDMPLadRc9t1xCNpUMj8nN8Z4GnYueylpW1c0gUn6L6P91nDpdMVmZxEG/DIeiXWEoaeJt22kLJKCbEkXWD4sfvTVjHih7tbkNdkdsoZGxIIzYe35v8AGqwHJt0LUWGnmLH8tvCHaglj7klXL2JiqMkiY4pchWWW+5DG++wdF9v7sbSRyMDS+hqRj4iM9dLoJxyXsu3sv3G1xcHgA2F7nGtLySm5PJWXYeWQDLDToAcsNxXbG4quTk5+9Trkcr2qJgIZQOUKbBT/AFxqcsGT7g8FlNqE0DSGndDFJ0vTKmoh6UQam0F3Y8hRORztObixHzrqOU+GXViGRCrbUd36jcpQ8X+uNEUOy2w2G2W0ttpwlIsBqXSERzi83K//2Q==" width="28" height="28" alt="" />
@@ -1499,18 +1501,18 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.2646112600536193 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.26397432468574483 329"/>
                                     <text x="60" y="50" dominant-baseline="central">3</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3730</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3739</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="1.0858085808580857 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="1.0834248079034028 329"/>
                                     <text x="60" y="50" dominant-baseline="central">3</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/909</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/911</text>
                                 </svg>
                                 <span class="title">Easy</span>
                             </div>
@@ -1519,7 +1521,7 @@
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                     <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0 329"/>
                                     <text x="60" y="50" dominant-baseline="central">0</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1942</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1946</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
@@ -1528,7 +1530,7 @@
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                     <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0 329"/>
                                     <text x="60" y="50" dominant-baseline="central">0</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/879</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/882</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -1556,7 +1558,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Nov 2025, 01:51:39 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Nov 2025, 01:51:33 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
